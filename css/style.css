@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.options {
+    margin-top:50px;
+}
+.pics {
+   
+    background: black;
+    border-radius: 20px;
+    padding:20px;
+}
+.option {
+    margin-bottom:50px;
+    padding:20px;
+    background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+    font-size:30px;
+    color:white;
+    text-shadow: 2px 2px black;
+    border-radius: 20px;
+    width:600px;
+    margin: 30px auto;
+}
+.feedback {
+    border: 1px rgb(255, 224, 224) solid;
+    font-size:30px;
+    display:none;
+}
+.positiveFeedback {
+    color : rgb(0, 163, 0)
+}
+.negFeedback {
+    color: rgb(177, 2, 2)
+}
+.nextBtn {
+    border:none;
+    height:50px;
+    font-size:20px;    
+}
+
